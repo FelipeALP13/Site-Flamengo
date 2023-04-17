@@ -1,3 +1,3 @@
 # Site-Flamengo
-Meu primeiro site minimalista sobre o clube de futebol Flamengo
+Meu primeiro site minimalista apenas com html e css sobre o clube de futebol Flamengo
 
